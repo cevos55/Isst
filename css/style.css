@@ -7,6 +7,9 @@ button:focus {
 	outline: none !important;
 }
 
+.brand-logo{
+	zoom: 1.4;}
+
 .vert{
 	color: rgb(0, 104, 0);
 }
